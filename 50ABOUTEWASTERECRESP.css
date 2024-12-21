@@ -1,0 +1,1120 @@
+@media screen and (max-width: 600px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 812px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 736px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 667px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 823px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 731px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 640px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 653px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 568px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .RequirementH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Benefits {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .Stepsh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .compoH2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+  }
+  .meaningh2 {
+    font-size: 15px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 768px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+  .RequirementH2 {
+    font-size: 20px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+  .Benefits {
+    font-size: 20px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+  .Stepsh2 {
+    font-size: 20px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+  .compoH2 {
+    font-size: 20px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 20px;
+  }
+  .meaningh2 {
+    font-size: 20px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+}
+
+@media screen and (width: 1024px) {
+  * {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .wiewrimg {
+    display: none;
+  }
+  .compoimg {
+    display: none;
+  }
+  .stepbystepimg {
+    display: none;
+  }
+  .benewrimg {
+    display: none;
+  }
+  .reqimg {
+    display: none;
+  }
+  .wiewr {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .compo {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .stepbystep {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .benewr {
+    width: 100%;
+    margin-left: 0%;
+  }
+  .req {
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+  }
+
+  .reqh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+  .RequirementH2 {
+    font-size: 25px;
+    word-spacing: 3px;
+    line-height: 29px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .Benefitsh2 {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+  .Benefits {
+    font-size: 25px;
+    word-spacing: 3px;
+    line-height: 29px;
+    margin-right: 10%;
+    margin-left: 5%;
+  }
+
+  .H2steps {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+  .Stepsh2 {
+    font-size: 25px;
+    margin-right: 10%;
+    word-spacing: 3px;
+    line-height: 29px;
+    margin-left: 5%;
+  }
+
+  .h2compo {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+  .compoH2 {
+    font-size: 25px;
+    margin-right: 10%;
+    word-spacing: 3px;
+    line-height: 29px;
+    margin-left: 5%;
+  }
+
+  .h2meaning {
+    margin-right: 10%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+  .meaningh2 {
+    font-size: 25px;
+    margin-right: 10%;
+    margin-left: 5%;
+    word-spacing: 3px;
+    line-height: 29px;
+  }
+}

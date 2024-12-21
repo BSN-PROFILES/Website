@@ -1,0 +1,46 @@
+#ic :hover {
+  transition: 2s;
+  transform: rotateZ(10deg);
+}
+
+#sw :hover {
+  transition: 2s;
+  transform: rotateZ(10deg);
+}
+#mw :hover {
+  transition: 2s;
+  transform: rotateZ(10deg);
+}
+
+.workflow {
+  padding: 50px;
+  transition: transform 0.2s;
+  margin: 0 auto;
+}
+.workflow :hover {
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2);
+}
+
+.workflow2 {
+  padding: 10px;
+  transition: transform 0.2s;
+  margin: 0 auto;
+}
+.workflow2 :hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}
+
+.workflow3 {
+  padding: 5px;
+  transition: transform 0.2s;
+  margin: 2%;
+}
+.workflow3 :hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}

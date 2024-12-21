@@ -1,0 +1,131 @@
+@media screen and (max-width: 600px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 812px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 736px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 667px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 823px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 731px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 640px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 653px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 568px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
+@media screen and (width: 768px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 20px;
+  }
+}
+
+@media screen and (width: 1024px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 30px;
+  }
+}

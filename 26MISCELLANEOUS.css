@@ -1,0 +1,295 @@
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  margin-top: 100px;
+}
+
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content2 a:hover {
+  background-color: #ddd;
+}
+
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+
+.dropdown2:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.column {
+  float: left;
+  width: 10%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.aboutus {
+  width: 1671px;
+  height: 233px;
+  background-image: url(https://img.freepik.com/free-vector/blue-yellow-vertical-stripes-background_1164-853.jpg?size=338&ext=jpg);
+  position: relative;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.aboutusref {
+  width: 50%;
+  height: 150%;
+  background-color: gold;
+  border-radius: 20px;
+  margin-left: 25%;
+}
+
+.aboutusrefp {
+  margin-left: 18%;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.aboutus {
+  width: 1665px;
+  height: 100px;
+  background-image: url(https://img.freepik.com/free-vector/blue-yellow-vertical-stripes-background_1164-853.jpg?size=338&ext=jpg);
+  position: relative;
+  background-size: 1700px;
+  background-color: white;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.aboutusimage {
+  width: 170px;
+  border-radius: 23px;
+  float: left;
+  height: 100px;
+}
+
+.aboutusheading {
+  float: right;
+  margin-right: 2%;
+  font-size: 25px;
+  margin-top: -1%;
+  color: black;
+}
+#row1 {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  display: ruby-base;
+  transition: top 0.3s;
+}
+
+#row1 a {
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#row1 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.fa-whatsapp {
+  background: white;
+  float: right;
+  width: 10px;
+  height: 10px;
+  margin-top: -35px;
+  border-radius: 5px;
+  color: white;
+  font-size: 25px;
+}
+
+.fa-whatsapp {
+  background: white;
+  float: right;
+  margin: -1350px;
+  width: 10px;
+  height: 10px;
+  margin-top: -38px;
+  color: white;
+  font-size: 25px;
+}
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  margin-top: 50px;
+}
+
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content2 a:hover {
+  background-color: #ddd;
+}
+
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+
+.dropdown2:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.column {
+  float: left;
+  width: 10%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.aboutus {
+  width: 1665px;
+  height: 100px;
+
+  background-image: url(https://img.freepik.com/free-vector/blue-yellow-vertical-stripes-background_1164-853.jpg?size=338&ext=jpg);
+
+  background-image: url(https://img.freepik.com/free-vector/blue-yellow-vertical-stripes-background_1164-853.jpg?size=338&ext=jpg);
+  position: relative;
+  background-size: 1700px;
+  background-color: white;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.aboutusimage {
+  width: 90px;
+  border-radius: 23px;
+  float: left;
+  margin-top: 11px;
+  margin-left: -960px;
+  height: 80px;
+}
+
+.aboutusheading {
+  float: right;
+  margin-right: 10%;
+  font-size: 25px;
+  margin-top: -1%;
+  color: black;
+}
+
+#row1 {
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  display: block;
+  transition: top 0.3;
+  overflow: hidden;
+  z-index: 99;
+}
+
+#row1 a {
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#row1 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  margin-top: 50px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  margin-top: -30px;
+  margin-left: -960px;
+}
+
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content2 a:hover {
+  background-color: #ddd;
+}
+
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+
+.dropdown2:hover .dropbtn {
+  background-color: #3e8e41;
+}

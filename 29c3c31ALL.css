@@ -1,0 +1,46 @@
+#c3 {
+  background: rgb(11, 78, 84);
+  animation: mymove 2s infinite;
+  margin-left: -19%;
+}
+
+#c34 {
+  border: rgb(4,102,178) SOLID 2.45px;
+  animation: mymove 2s infinite;
+  border-radius: 5px;
+  margin-left: -19%;
+}
+
+#c35 {
+border: rgb(4,102,178) solid 2.45px;
+  animation: mymove 2s infinite;
+  border-radius: 5px;
+}
+
+#c31 {
+  background: rgb(81,190,149);
+  animation: mymove 2s infinite;
+}
+
+#move {
+  background: rgb(81,190,149);
+  animation: mymove 3s infinite;
+  border: rgb(4,102,178) 2px solid;
+}
+
+@keyframes mymove {
+  from {
+    color: rgb(4,102,178);
+  }
+  to {
+    color: white;
+  }
+}
+
+ul#menu li {
+  display: inline;
+}
+
+ul#menu li {
+  display: inline;
+}

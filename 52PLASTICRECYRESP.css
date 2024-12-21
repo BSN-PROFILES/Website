@@ -1,0 +1,850 @@
+.plasticrecyclingben {
+  width: 32%;
+  float: right;
+  margin-right: 10%;
+  margin-top: 20px;
+  border: 3px solid rgb(11, 78, 84);
+  border-radius: 20px;
+}
+.plasticrecyclingben2 {
+  width: 8%;
+  float: right;
+  margin-right: -31%;
+  margin-top: 50px;
+}
+
+.wirerecycling {
+  margin-left: 5%;
+  text-align: left;
+  margin-right: 60%;
+  font-size: 18px;
+  color: gray;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+}
+
+.wirerecycling2H {
+  color: black;
+  text-align: center;
+}
+.typesofplasticrec {
+  font-size: 18px;
+  background: url(IMAGES_BSNMRF/BSN\ METAL\ ROLL\ FORMIING\ LOGO_\ METAL\ ROLL\ FORMING\ COMOANY\ MAIN\ 21.webp);
+  background-size: 2000px;
+  border: 3px solid rgb(11, 78, 84);
+  border-radius: 20px;
+}
+.typesofplasticrecimg1 {
+  width: 150px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 5%;
+}
+.typesofplasticrec1 {
+  color: black;
+  margin-left: 40%;
+}
+.typesofplasticrec2 {
+  margin-left: 50%;
+}
+.typesofplasticrec3 {
+  margin-left: 5%;
+}
+.typesofplasticrecimg2 {
+  width: 200px;
+  margin-left: 10%;
+  border: rgb(11, 78, 84) 5px solid;
+  border-radius: 100px;
+}
+.wireworkflowdivimg {
+  width: 10%;
+  float: right;
+  margin-top: 20px;
+  margin-right: 2%;
+}
+
+.wireworkflowdivimg2 {
+  width: 50%;
+  margin-left: 25%;
+  border: 3px solid rgb(11, 78, 84);
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(2.4); /* IE 9 */
+    -webkit-transform: scale(2.4); /* Safari 3-8 */
+    transform: scale(2.4);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrecimg2 {
+    width: 60%;
+    float: left;
+    margin-left: 20%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  #plasticedit {
+    margin-top: 40%;
+    margin-bottom: 0%;
+  }
+
+  #plasticedit2 {
+    margin-bottom: 50%;
+    margin-bottom: 1%;
+  }
+  #plasticedit3 {
+    margin-bottom: 5%;
+  }
+}
+
+@media screen and (width: 812px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 736px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 667px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 823px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 731px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 640px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 653px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 568px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 768px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 20px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}
+
+@media screen and (width: 1024px) {
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .workflow {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .plasticrecyclingben {
+    display: none;
+  }
+  .plasticrecyclingben2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 30px;
+    border: 2px dotted rgb(11, 78, 84);
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirerecycling2H {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0%;
+    word-spacing: 3px;
+    line-height: 29px;
+  }
+  .typesofplasticrec {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px rgb(11, 78, 84) solid;
+  }
+  .typesofplasticrecimg1 {
+    display: none;
+  }
+  .typesofplasticrec1 {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec2 {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .typesofplasticrec3 {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+}

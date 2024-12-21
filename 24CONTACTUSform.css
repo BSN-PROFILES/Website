@@ -1,0 +1,231 @@
+.container {
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  margin-left: 20px;
+}
+
+.container1 {
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  margin-left: 20px;
+}
+.F1 {
+  float: left;
+  margin-left: 0px;
+  text-transform: uppercase;
+  outline-style: dotted;
+  outline-width: thin;
+  width: 100px;
+  height: 20px;
+  text-align: center;
+}
+
+.F2 {
+  float: left;
+  margin-left: 0px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+.F3 {
+  float: left;
+  margin-left: 0px;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+
+.F4 {
+  float: left;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  width: 150px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+.F5 {
+  float: left;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+.F6 {
+  float: left;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+.F7 {
+  float: left;
+  margin-left: 0px;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+.F8 {
+  float: left;
+  margin-left: 0px;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+.F9 {
+  float: left;
+  color: white;
+  text-transform: uppercase;
+  background-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  width: 100px;
+  text-align: center;
+  outline-style: dotted;
+  outline-width: thin;
+}
+
+input[type="text1"] {
+  width: 100%;
+  padding: 12px;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type="text2"] {
+  width: 100%;
+  padding: 12px;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  margin-left: 0px;
+}
+
+input[type="text3"] {
+  width: 100%;
+  padding: 12px;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type="text4"] {
+  width: 100%;
+  padding: 12px;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type="text5"] {
+  width: 100%;
+  padding: 12px;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type="text6"] {
+  width: 100%;
+  padding: 12px;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type="text7"] {
+  width: 100%;
+  padding: 12px;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+input[type="text8"] {
+  width: 100%;
+  padding: 12px;
+  border-color: rgb(11, 78, 84);
+  border-radius: 5px;
+  border: rgb(11, 78, 84) 3px solid;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+.subject select,
+textarea {
+  width: 100%;
+  resize: vertical;
+  border-style: solid;
+  border: rgb(11, 78, 84) 3px solid;
+  border-radius: 5px;
+}
+
+input[type="submit"] {
+  float: right;
+  width: 150px;
+  font-weight: bolder;
+  background-color: #04aa6d;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgb(11, 78, 84);
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  margin-right: 3%;
+  text-decoration: underline;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}

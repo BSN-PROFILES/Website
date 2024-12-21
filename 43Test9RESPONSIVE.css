@@ -1,0 +1,1201 @@
+@media screen and (max-width: 600px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    width: auto;
+    font-size: 12px;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    width: auto;
+    font-size: 12px;
+  }
+
+  .Test92P1 {
+    margin-top: -4.6%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    width: auto;
+    font-size: 12px;
+    margin-left: -4%;
+  }
+  .Test932 {
+    width: auto;
+    font-size: 12px;
+    margin-left: -2%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 75%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 60%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 812px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 736px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 667px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 823px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 731px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 640px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 653px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 568px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 12px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 12px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 12px;
+    padding: 0.4%;
+    width: 26%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 12px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 12px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 12px;
+    margin-left: -4%;
+    padding: 0.4%;
+    width: 27%;
+  }
+  .Test932 {
+    font-size: 12px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+    width: 27%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 768px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 20px;
+    padding: 2%;
+  }
+  .Test91p {
+    font-size: 20px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 20px;
+    padding: 0.4%;
+    width: 26%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 15px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 15px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 20px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 20px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 20px;
+    margin-left: -4%;
+    padding: 0.4%;
+    width: 27%;
+  }
+  .Test932 {
+    font-size: 20px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+    width: 27%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}
+
+@media screen and (width: 1024px) {
+  .Test9 {
+    width: auto;
+  }
+  .Test9heading1 {
+    font-size: 20px;
+    padding: 5%;
+  }
+  .Test91p {
+    font-size: 18px;
+    margin-top: 0%;
+    width: 24%;
+  }
+
+  .Test92 {
+    font-size: 20px;
+    padding: 0.4%;
+  }
+
+  .Test92P1 {
+    margin-top: -1.8%;
+  }
+
+  .Test92p1heading {
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+
+  .Test92p2heading {
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  .Test92ADDRESS1 {
+    font-size: 18px;
+  }
+
+  .Test92ADDRESS2 {
+    font-size: 18px;
+  }
+  .Test9iframe1 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+  .Test9iframe2 {
+    width: 40%;
+    height: 20px;
+    margin-top: 5%;
+  }
+
+  .Test93 {
+    font-size: 20px;
+    margin-left: -4%;
+    padding: 0.4%;
+  }
+  .Test932 {
+    font-size: 20px;
+    margin-left: -3%;
+    margin-top: 23%;
+    padding: 0.4%;
+  }
+  .Test9div3 img.fb {
+    width: 6%;
+  }
+  .Test9div3 img.twitter {
+    width: 5%;
+  }
+  .Test9div3 img.in {
+    width: 5%;
+  }
+  .Test9div3 img.you {
+    width: 5%;
+  }
+  .Test9div3 img.insta {
+    width: 5%;
+  }
+  .Test9div3 img.wa {
+    width: 5%;
+    margin-right: -5%;
+    margin-top: 12%;
+  }
+  .Test93div1 {
+    margin-top: -1%;
+    margin-right: 2%;
+    margin-left: 10%;
+  }
+  .Test93marquee1 {
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee2 {
+    width: 65%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+
+  .Test93marquee3 {
+    width: 50%;
+    margin-left: 10%;
+    border: 3px solid rgb(4,102,178);
+    border-radius: 10px;
+  }
+}

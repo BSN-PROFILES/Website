@@ -1,0 +1,76 @@
+.missiondiv img {
+  float: right;
+  width: 750px;
+  height: 450px;
+  margin-right: 100px;
+  padding: 0px;
+}
+
+.missiondivp {
+  margin-left: 100px;
+}
+.visionimg {
+  float: right;
+  width: 750px;
+  height: 450px;
+  margin-right: 100px;
+  margin-bottom: 40px;
+  padding: 0px;
+}
+
+.goalimg {
+  float: right;
+  width: 750px;
+  height: 450px;
+  margin-right: 100px;
+  margin-bottom: 40px;
+  padding: 0px;
+}
+
+.headingp {
+  text-align: justify;
+  font-size: 20px;
+  color: grey;
+  padding: 10px;
+  margin-left: 0.5%;
+  width: 98%;
+  font-family: "Times New Roman", Times, serif;
+  word-spacing: 5px;
+  line-height: 29px;
+  font-weight: normal;
+}
+
+.heading {
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  width: 100%;
+  font-size: 29px;
+  text-transform: uppercase;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+.nontoxicenvironment {
+  color: rgb(4.102.178);
+  font-style: normal;
+  border-radius: 5px;
+  font-size: 20px;
+  word-spacing: 5px;
+  line-height: 29px;
+}
+
+.our {
+  font-style: normal;
+  color: rgb(4,102,178);
+  word-spacing: 5px;
+}
+
+.bsnr {
+  color: rgb(4.102.178);
+  font-style: normal;
+}
+
+.onlyforrespimg {
+  display: none;
+}

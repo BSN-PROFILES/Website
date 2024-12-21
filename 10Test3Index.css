@@ -1,0 +1,40 @@
+.Test3 {
+  width: 100%;
+  height: 233px;
+  background-size: cover;
+  position: relative;
+  background-image: url();
+  margin: 8px;
+  border-style: solid;
+  border-color: black;
+}
+
+.Test3 p {
+  color: black;
+  display: inline;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  width: 440px;
+  position: absolute;
+  top: 0px;
+  left: 550px;
+  border-radius: 20px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  background-image: url(IMAGES_BSNMRF/BSN\ METAL\ ROLL\ FORMIING\ LOGO_\ METAL\ ROLL\ FORMING\ COMOANY\ MAIN\ 21.webp);
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.Test3 img {
+  width: 280px;
+  border-radius: 300px;
+  border-color: black;
+  float: left;
+  margin-left: 70px;
+  margin-top: 50px;
+}

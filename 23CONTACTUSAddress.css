@@ -1,0 +1,88 @@
+.ADDSCRIPT {
+  margin-left: 30px;
+  font-weight: bold;
+}
+
+.map-responsive {
+  overflow: hidden;
+
+  padding-bottom: 10%;
+
+  width: 1600px;
+
+  position: relative;
+
+  height: 0;
+
+  border: 3px solid rgb(11, 78, 84);
+
+  border-radius: 10px;
+}
+
+.map-responsive iframe {
+  left: 0;
+
+  top: 0;
+
+  height: 100%;
+
+  width: 100%;
+
+  position: absolute;
+}
+#c3 {
+  background: rgb(11, 78, 84);
+  animation: mymove 2s infinite;
+  margin-left: -12%;
+}
+
+#c31 {
+  background: rgb(11, 78, 84);
+  animation: mymove 4s infinite;
+}
+
+@keyframes mymove {
+  from {
+    color: rgb(11, 78, 84);
+  }
+  to {
+    color: white;
+  }
+}
+
+#c32 {
+  background: white;
+  animation: mymove2 4s infinite;
+}
+
+@keyframes mymove2 {
+  from {
+    color: white;
+  }
+  to {
+    color: rgb(11, 78, 84);
+  }
+}
+.map-responsive2 {
+  overflow: hidden;
+
+  padding-bottom: 5%;
+
+  width: 1600px;
+
+  position: relative;
+
+  height: 0;
+}
+
+.map-responsive2 iframe {
+  left: 560px;
+
+  top: 0;
+
+  height: 100%;
+
+  width: 28%;
+
+  position: absolute;
+}

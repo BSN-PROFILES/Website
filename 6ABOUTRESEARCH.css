@@ -1,0 +1,73 @@
+.workflow {
+padding: 50px;
+    transition: transform 0.2s;
+  margin: 0 auto;
+}
+.workflow :hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}
+#c3 {
+  background: rgb(11, 78, 84);
+  animation: mymove 2s infinite;
+  margin-left: -12%;
+}
+
+@keyframes mymove {
+  from {
+    color: rgb(11, 78, 84);
+  }
+  to {
+    color: white;
+  }
+}
+
+.researchdiv {
+  background-color: white;
+  background-size: 2000px;
+  border: rgb(11, 78, 84) solid 3px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+  width: 100%;
+  color: gray;
+  word-spacing: 3px;
+  line-height: 29px;
+}
+.researchdivimglogo {
+  width: 15%;
+  float: right;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+.researchp {
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: justify;
+  word-spacing: 5px;
+  line-height: 29px;
+}
+.researchheading {
+  text-align: center;
+}
+
+.climatechangebutton:hover {
+  background-color: white;
+  color: rgb(11, 78, 84);
+  border-radius: 3px;
+  outline: white 2px dotted;
+  cursor: pointer;
+}
+.researchdivworkflow {
+  width: 40%;
+  margin-left: 30%;
+  border: rgb(11, 78, 84) solid 3px;
+}
+
+.researchdivworkflow2 {
+  width: 6%;
+  margin-bottom: 290px;
+  margin-left: -118px;
+}

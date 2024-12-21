@@ -1,0 +1,71 @@
+.map-responsive {
+  overflow: hidden;
+
+  padding-bottom: 5%;
+
+  width: 1600px;
+
+  position: relative;
+
+  height: 0;
+}
+
+.map-responsive iframe {
+  left: 0px;
+
+  top: 0;
+
+  height: 100%;
+
+  width: 100%;
+
+  position: absolute;
+}
+
+.map-responsive2 {
+  overflow: hidden;
+
+  padding-bottom: 5%;
+
+  width: 1600px;
+
+  position: relative;
+
+  height: 0;
+}
+
+.map-responsive2 iframe {
+  left: 560px;
+
+  top: 0;
+
+  height: 100%;
+
+  width: 28%;
+
+  position: absolute;
+}
+
+.map-responsiveIndexTest9 {
+  overflow: hidden;
+
+  padding-bottom: 10%;
+
+  width: 300%;
+
+  position: relative;
+
+  height: 60px;
+}
+
+.map-responsiveIndexTest9 iframe {
+  left: 37.06%;
+
+  top: 10px;
+
+  height: 100%;
+
+  width: 28%;
+
+  position: relative;
+}

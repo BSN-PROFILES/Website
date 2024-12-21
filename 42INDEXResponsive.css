@@ -1,0 +1,1629 @@
+.linebreakafterabout {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .linebreakafterabout {
+    display: block;
+  }
+
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 30%;
+  }
+  .marquee1img2 {
+    width: 40%;
+  }
+  .marquee1img3 {
+    width: 30%;
+  }
+  .marquee1text {
+    font-size: 30%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: -11%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 50%;
+    font-size: 15px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: -11%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 45%;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: -11%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 1366px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 20px;
+  }
+  .Test1 {
+    width: auto;
+    height: 500px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 30%;
+    align-items: center;
+    margin-right: 34%;
+    margin-top: 3%;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+    display: block;
+    padding: 2px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -110px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 20%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+}
+
+@media screen and (width: 1280px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 20px;
+  }
+  .Test1 {
+    width: auto;
+    height: 500px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 30%;
+    align-items: center;
+    margin-right: 34%;
+    margin-top: 3%;
+    display: block;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+    padding: 2px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 10px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -110px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 20%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+}
+
+@media screen and (width: 812px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 736px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 667px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 823px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 731px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 640px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 653px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 568px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 768px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 390px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: block;
+    padding: 2px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test4ref {
+    margin-top: 5%;
+    font-size: 15px;
+    padding: 2px;
+  }
+
+  .Test41 {
+    font-size: 20px;
+  }
+
+  .Test41p {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test6ref {
+    margin-top: 5%;
+    padding: 2px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 20px;
+  }
+
+  .Test61p {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-bottom: 30%;
+  }
+
+  .Test71 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 20px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 280px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .Test1 {
+    width: auto;
+    height: 260px;
+    background-size: contain;
+    background-image: url(images/ROTATE3.png);
+  }
+  .Test1responsiveimagelogo {
+    width: 40%;
+    align-items: center;
+    margin-right: 27%;
+    margin-top: 3%;
+    display: none;
+    padding: 4px;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -150px;
+    margin-left: 42%;
+    display: none;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 35%;
+    margin-bottom: 20%;
+    margin-left: 15%;
+  }
+  .marquee1img2 {
+    margin-bottom: 20%;
+    width: 45%;
+  }
+  .marquee1img3 {
+    width: 35%;
+    margin-bottom: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 40%;
+  }
+
+  .Test4ref {
+    margin-top: 80%;
+    font-size: 15px;
+    padding: 0px;
+  }
+
+  .Test41 {
+    font-size: 15px;
+  }
+
+  .Test41p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 0%;
+    margin-bottom: 40%;
+  }
+
+  .Test6ref {
+    margin-top: 80%;
+    padding: 0px;
+    font-size: 15px;
+  }
+  .Test61 {
+    font-size: 15px;
+  }
+
+  .Test61p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 0%;
+    margin-bottom: 40%;
+  }
+
+  .Test71 {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media screen and (width: 1024px) {
+  .TestA {
+    width: 100%;
+    text-align: center;
+  }
+  .TestA a {
+    display: table-caption;
+    text-align: center;
+    font-size: 30px;
+  }
+  .Test1 {
+    width: auto;
+    height: 500px;
+    background-size: cover;
+  }
+  .Test1responsiveimagelogo {
+    width: 30%;
+    align-items: center;
+    margin-right: 34%;
+    margin-top: 3%;
+    display: block;
+    background-color: white;
+    border: rgb(4,102,178) 3px solid;
+    border-radius: 5px;
+    padding: 2px;
+  }
+  .Test1responsiveimagelogo:hover {
+    background: white;
+    border-radius: 5px;
+    border: rgb(4,102,178) 3px solid;
+    padding: 5px;
+    transition: 2s;
+  }
+
+  .marquee1 {
+    margin-top: -110px;
+  }
+  .img1 {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: none;
+  }
+  .marquee1img1 {
+    width: 20%;
+    margin-left: 20%;
+  }
+  .marquee1img2 {
+    width: 25%;
+  }
+  .marquee1img3 {
+    width: 20%;
+  }
+  .marquee1text {
+    font-size: 40%;
+  }
+
+  .Test4 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 5%;
+  }
+
+  .Test4ref {
+    margin-top: 10%;
+    font-size: 25px;
+  }
+
+  .Test41 {
+    font-size: 30px;
+  }
+
+  .Test41p {
+    font-size: 25px;
+    text-align: center;
+    word-spacing: 5px;
+    line-height: 39px;
+  }
+
+  .Test6 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 0%;
+    margin-bottom: 5%;
+  }
+
+  .Test6ref {
+    margin-top: 9%;
+    font-size: 25px;
+  }
+  .Test61 {
+    font-size: 30px;
+  }
+
+  .Test61p {
+    font-size: 25px;
+    text-align: center;
+    word-spacing: 5px;
+    line-height: 39px;
+  }
+
+  .Test7 {
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 0%;
+    margin-bottom: 5%;
+  }
+
+  .Test71 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .Test71p {
+    font-size: 25px;
+    text-align: center;
+    word-spacing: 5px;
+    line-height: 39px;
+  }
+}

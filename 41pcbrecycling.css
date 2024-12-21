@@ -1,0 +1,84 @@
+.pcbprincipleimg1 {
+  border-radius: 20px;
+  width: 22%;
+  float: right;
+  margin-right: 20%;
+  margin-bottom: 0%;
+  margin-top: 2%;
+  border: 2px SOLID rgb(4,102,178);
+}
+
+.pcbprincipleimg2 {
+  width: 8%;
+  float: right;
+  margin-right: -22%;
+  margin-top: 3%;
+}
+
+.pcb {
+  text-align: left;
+  margin-right: 60%;
+  margin-left: 5%;
+  font-size: 18px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+}
+.pcbh2 {
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.pcbh2p1 {
+  word-spacing: 3px;
+  line-height: 25px;
+  border: rgb(11, 78, 84) 2px SOLID;
+  padding: 10px;
+  border-radius: 20px;
+}
+.pcbprincipleimg1:hover {
+  padding: 1px;
+  transition: 2s;
+  cursor: pointer;
+  border: rgb(81,190,149) solid 5px;
+}
+
+.pcbprincipleimg2:hover {
+  padding: 1px;
+  transition: 1s;
+  cursor: pointer;
+  border: rgb(81,190,149) solid 3px;
+  border-radius: 50%;
+  background-color:rgb(4,102,178);
+  padding: 1px;
+}
+
+.pcbrworkflowdiv {
+  background-color: rgb(4,102,178 );
+  background-size: cover;
+  border: 3px solid rgb(4,102,178);
+}
+.pcbrworkflowdivimg {
+  width: 10%;
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.pcbrworkflowdivimg2 {
+  width: 50%;
+  border: 3px solid rgb(4,102,178);
+  margin-left: 25%;
+  margin-top: 5px;
+  transition: 1s;
+}
+
+
+.pcbrworkflowdivimg:hover {
+  background-color: white;
+border: 2px rgb(11, 78, 84) solid;
+transition: 2s;
+border-radius: 5px;  
+padding: 1PX;
+}

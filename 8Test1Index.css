@@ -1,0 +1,117 @@
+.Test1 {
+  width: auto;
+  height: 750px;
+  background-size: cover;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(IMAGES_BSNMRF/BSN\ METAL\ ROLL\ FORMIING\ LOGO_\ METAL\ ROLL\ FORMING\ COMpany.png) center no-repeat;
+  background-size: cover;
+  margin: 8px;
+  margin-top: 5px;
+  border: solid rgb(4,102,178) 3px;
+}
+
+.Test1 p {
+  color: black;
+  display: inline;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  text-transform: uppercase;
+  font-family: serif;
+  width: 100%;
+  position: absolute;
+  top: 20px;
+  left: -100px;
+  text-align: center;
+  font-family: cormorant garamond, serif;
+  font-size: 10rem;
+  font-weight: 100;
+  color: white;
+  text-transform: capitalize;
+  letter-spacing: 0.1rem;
+  text-align: rig15;
+  user-select: none;
+  margin-right: 50px;
+}
+
+.img1 {
+  width: 12%;
+  border-radius: 10%;
+  float: left;
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-right: 80%;
+}
+.marquee1 {
+  margin-right: -30%;
+}
+
+.marquee1img1 {
+  width: 11%;
+  border-radius: 10%;
+  height: 150px;
+  margin-left: 34%;
+  border: 3px solid rgb(4,102,178);
+}
+.marquee1img2 {
+  width: 17%;
+  height: 150px;
+  border-radius: 10%;
+  margin-left: 15%;
+  border: 3px solid rgb(4,102,178);
+}
+
+.marquee1img3 {
+  width: 14%;
+  border-radius: 10%;
+  margin-left: 16%;
+  border: 3px solid rgb(4,102,178);
+}
+.img1 {
+  transition: transform 1s;
+  margin: 0 auto;
+  width: 12%;
+  border-radius: 10%;
+  float: left;
+  margin-left: 5%;
+  margin-top: 4%;
+  margin-right: 80%;
+  outline: solid 3px rgb(4,102,178);
+}
+.img1:hover {
+  -ms-transform: scale(1.06); /* IE 9 */
+  -webkit-transform: scale(1.06); /* Safari 3-8 */
+  transform: scale(1.06);
+  transition: 1.2s;
+  border: 5px solid rgb(81, 190, 149);
+  padding: 0px; 
+  outline: solid 5px rgb(4,102,178);
+  border-radius: 25%;
+ 
+}
+.marquee1img1:hover {
+  border: rgb(4,102,178) 3px solid;
+  border: 3px solid white;
+  transition: 2s;
+}
+.marquee1img2:hover {
+  border: rgb(4,102,178) 3px solid;
+  border: 3px solid white;
+  transition: 2s;
+}
+.marquee1img3:hover {
+  border: rgb(4,102,178) 3px solid;
+  border: 3px solid white;
+  transition: 2s;
+}
+
+.Test1responsiveimagelogo {
+  width: 11%;
+  float: right;
+  margin-right: 4%;
+  margin-top: -14%;
+  border-radius: 10%;
+  display: none;
+}

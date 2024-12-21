@@ -1,0 +1,1000 @@
+.wirecableimage {
+  width: 35%;
+  float: right;
+  margin-right: 3%;
+  margin-top: 2%;
+  border: 10px solid silver;
+  border-radius: 20px;
+  outline:  #b87333 5px solid;
+}
+
+.wirecableimage2 {
+  width: 8%;
+  float: right;
+  margin-right: -35%;
+  margin-top: 60px;
+}
+
+
+
+.wirecableimage:hover {
+  width: 40%;
+  border: 5px solid #b87333;
+  outline: 10px solid gray;
+  transition: 5s;
+  padding: 1px;
+}
+
+.wirecableimage2:hover {
+background-color: white;
+padding: 2px;
+border: rgb(11, 78, 84) 3px solid;
+transition: 2s;
+border-radius: 5px;}
+
+
+.wirerecycling {
+  margin-left: 5%;
+  text-align: left;
+  margin-right: 60%;
+  font-size: 18px;
+  color: gray;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  line-height: 25px;
+}
+.wirecabletypes {
+  font-size: 18px;
+  border-radius: 20px;
+  background:  url(images/copper\ color\ background\ wire\ pcb\ plastic\ recycling.jpg);
+  background-size: cover;
+  border: 3px solid #b87333;
+}
+
+.wirecabletypes:hover {
+
+background:  url(images/copper\ and\ aluminium\ bsn\ recyclers.jpg);
+background-size: cover;
+transition: 10s;
+color: white;
+border: silver 10px solid;
+
+
+}
+
+.wirecabletypesH2:hover {
+
+  color: white;
+  transition: 2s;
+} 
+
+.wirecabletypes2 {
+  width: 140px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 5%;
+}
+
+
+.wirecabletypes2:hover {
+background-color: white;
+border: rgb(11, 78, 84) 2px solid;
+padding: 1px;
+transition: 2s;
+border-radius: 5px;
+
+}
+.wirecabletypesH2 {
+  color: black;
+  margin-left: 32%;
+}
+
+.industrialcables {
+  margin-left: 39.5%;
+}
+.industrialcables1 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid;
+  width: 300px;
+  border-radius: 200px;
+}
+
+.industrialcables2 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid;  
+  width: 300px;
+  border-radius: 200px;
+}
+
+.industrialcables3 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid;width: 300px;
+  border-radius: 200px;
+}
+
+.scrapwires {
+  margin-left: 43%;
+}
+
+.scrapwires1 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid; width: 300px;
+  border-radius: 200px;
+}
+
+.scrapwires2 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid;width: 300px;
+  border-radius: 200px;
+}
+
+.scrapwires3 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid; width: 300px;
+  border-radius: 200px;
+}
+.miscellaneouswires {
+  margin-left: 39%;
+}
+
+.miscellaneouswires1 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid; width: 300px;
+  border-radius: 200px;
+}
+
+.miscellaneouswires2 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid; width: 300px;
+  border-radius: 200px;
+}
+
+.miscellaneouswires3 {
+  margin-left: 10%;
+  border: #b87333 5px solid;
+  outline: silver 5px solid; width: 300px;
+  border-radius: 200px;
+}
+
+
+.wireworkflowdivimg{
+width: 10%; 
+  float: right; 
+  margin-top: 20px; 
+  margin-right: 2%;
+
+
+}
+
+
+.wireworkflowdivimg:hover{
+background-color: white;
+border: rgb(11, 78, 84) 2px solid;
+border-radius: 3px;  
+padding: 2px;
+transition: 2s;
+  
+  }
+
+
+  .wireworkflowdivimg2{
+    width: 50%; 
+    margin-left: 25%; 
+    border: 3px solid #B87333; 
+    border-radius: 20px;
+ }
+
+ .wireworkflowdivimg2:hover{
+  outline: gray solid 5px;
+  border: 5px solid #b87333; 
+  transition: 2s;
+
+}
+
+.wireworkflow{
+
+  font-size: 18px; border-radius: 20px; 
+  background: url(images/copper\ color\ background\ wire\ pcb\ plastic\ recycling.jpg);
+  background-size: cover;
+   border:3px solid #B87333;
+}
+
+.wireworkflow:hover{
+
+    background: url(images/copper\ and\ aluminium\ bsn\ recyclers.jpg);
+  background-size: cover;
+   border:5px solid #B87333;
+   outline: gray 5px solid;
+   transition: 10s;
+}
+  
+@media screen and (max-width: 600px) {
+.industrialcables1{width: auto;}
+.industrialcables2{width: auto;}
+.industrialcables3{width: auto;}
+.scrapwires1{width: auto;}
+.scrapwires2{width: auto;}
+.scrapwires3{width: auto;}
+.miscellaneouswires1{width: auto;}
+.miscellaneouswires2{width: auto;}
+.miscellaneouswires3{width: auto;}
+.wireworkflow{width: auto;}
+}
+
+@media screen and (max-width: 600px) {
+  .industrialcables1{width: auto;}
+  .industrialcables2{width: auto;}
+  .industrialcables3{width: auto;}
+  .scrapwires1{width: auto;}
+  .scrapwires2{width: auto;}
+  .scrapwires3{width: auto;}
+  .miscellaneouswires1{width: auto;}
+  .miscellaneouswires2{width: auto;}
+  .miscellaneouswires3{width: auto;}
+  .wireworkflow{width: auto;}
+  }
+  @media screen and (width: 812px) {
+    .industrialcables1{width: auto;}
+    .industrialcables2{width: auto;}
+    .industrialcables3{width: auto;}
+    .scrapwires1{width: auto;}
+    .scrapwires2{width: auto;}
+    .scrapwires3{width: auto;}
+    .miscellaneouswires1{width: auto;}
+    .miscellaneouswires2{width: auto;}
+    .miscellaneouswires3{width: auto;}
+    .wireworkflow{width: auto;}
+    }
+    @media screen and (width: 736px) {
+      .industrialcables1{width: auto;}
+      .industrialcables2{width: auto;}
+      .industrialcables3{width: auto;}
+      .scrapwires1{width: auto;}
+      .scrapwires2{width: auto;}
+      .scrapwires3{width: auto;}
+      .miscellaneouswires1{width: auto;}
+      .miscellaneouswires2{width: auto;}
+      .miscellaneouswires3{width: auto;}
+      .wireworkflow{width: auto;}
+      }
+      @media screen and (width: 667px) {
+        .industrialcables1{width: auto;}
+        .industrialcables2{width: auto;}
+        .industrialcables3{width: auto;}
+        .scrapwires1{width: auto;}
+        .scrapwires2{width: auto;}
+        .scrapwires3{width: auto;}
+        .miscellaneouswires1{width: auto;}
+        .miscellaneouswires2{width: auto;}
+        .miscellaneouswires3{width: auto;}
+        .wireworkflow{width: auto;}
+        }
+        @media screen and (width: 731px) {
+          .industrialcables1{width: auto;}
+          .industrialcables2{width: auto;}
+          .industrialcables3{width: auto;}
+          .scrapwires1{width: auto;}
+          .scrapwires2{width: auto;}
+          .scrapwires3{width: auto;}
+          .miscellaneouswires1{width: auto;}
+          .miscellaneouswires2{width: auto;}
+          .miscellaneouswires3{width: auto;}
+          .wireworkflow{width: auto;}
+          }
+          @media screen and (width: 823px) {
+            .industrialcables1{width: auto;}
+            .industrialcables2{width: auto;}
+            .industrialcables3{width: auto;}
+            .scrapwires1{width: auto;}
+            .scrapwires2{width: auto;}
+            .scrapwires3{width: auto;}
+            .miscellaneouswires1{width: auto;}
+            .miscellaneouswires2{width: auto;}
+            .miscellaneouswires3{width: auto;}
+            .wireworkflow{width: auto;}
+            }
+            @media screen and (width: 640px) {
+              .industrialcables1{width: auto;}
+              .industrialcables2{width: auto;}
+              .industrialcables3{width: auto;}
+              .scrapwires1{width: auto;}
+              .scrapwires2{width: auto;}
+              .scrapwires3{width: auto;}
+              .miscellaneouswires1{width: auto;}
+              .miscellaneouswires2{width: auto;}
+              .miscellaneouswires3{width: auto;}
+              .wireworkflow{width: auto;}
+              }
+              @media screen and (width: 823px) {
+                .industrialcables1{width: auto;}
+                .industrialcables2{width: auto;}
+                .industrialcables3{width: auto;}
+                .scrapwires1{width: auto;}
+                .scrapwires2{width: auto;}
+                .scrapwires3{width: auto;}
+                .miscellaneouswires1{width: auto;}
+                .miscellaneouswires2{width: auto;}
+                .miscellaneouswires3{width: auto;}
+                .wireworkflow{width: auto;}
+                }
+                @media screen and (width: 653px) {
+                  .industrialcables1{width: auto;}
+                  .industrialcables2{width: auto;}
+                  .industrialcables3{width: auto;}
+                  .scrapwires1{width: auto;}
+                  .scrapwires2{width: auto;}
+                  .scrapwires3{width: auto;}
+                  .miscellaneouswires1{width: auto;}
+                  .miscellaneouswires2{width: auto;}
+                  .miscellaneouswires3{width: auto;}
+                  .wireworkflow{width: auto;}
+                  }
+                  @media screen and (width: 768px) {
+                    .industrialcables1{width: auto;}
+                    .industrialcables2{width: auto;}
+                    .industrialcables3{width: auto;}
+                    .scrapwires1{width: auto;}
+                    .scrapwires2{width: auto;}
+                    .scrapwires3{width: auto;}
+                    .miscellaneouswires1{width: auto;}
+                    .miscellaneouswires2{width: auto;}
+                    .miscellaneouswires3{width: auto;}
+                    .wireworkflow{width: auto;}
+                    }
+                    @media screen and (width: 568px) {
+                      .industrialcables1{width: auto;}
+                      .industrialcables2{width: auto;}
+                      .industrialcables3{width: auto;}
+                      .scrapwires1{width: auto;}
+                      .scrapwires2{width: auto;}
+                      .scrapwires3{width: auto;}
+                      .miscellaneouswires1{width: auto;}
+                      .miscellaneouswires2{width: auto;}
+                      .miscellaneouswires3{width: auto;}
+                      .wireworkflow{width: auto;}
+                      }
+                      @media screen and (width: 1024px) {
+                        .industrialcables1{width: auto;}
+                        .industrialcables2{width: auto;}
+                        .industrialcables3{width: auto;}
+                        .scrapwires1{width: auto;}
+                        .scrapwires2{width: auto;}
+                        .scrapwires3{width: auto;}
+                        .miscellaneouswires1{width: auto;}
+                        .miscellaneouswires2{width: auto;}
+                        .miscellaneouswires3{width: auto;}
+                        .wireworkflow{width: auto;}
+                        }
+                        
+                                                                                                                                    
+@media screen and (max-width: 600px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .wirecabletypes {
+    width: auto;
+    height: 1550px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px #b87333 solid;
+  }
+  .industrialcables {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .industrialcables1 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+  .industrialcables2 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+  .industrialcables3 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .scrapwires {
+    font-size: 15px;
+    margin-left: 35%;
+    margin-top: 10%;
+    float: left;
+    text-align: center;
+  }
+  .scrapwires1 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+  .scrapwires2 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+  .scrapwires3 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+    margin-bottom: 10%;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .miscellaneouswires {
+    font-size: 15px;
+    margin-left: 0%;
+    text-align: center;
+  }
+  .miscellaneouswires1 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+  .miscellaneouswires2 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+  .miscellaneouswires3 {
+    width: 50%;
+    float: left;
+    margin-left: 20%;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(2.4); /* IE 9 */
+    -webkit-transform: scale(2.4); /* Safari 3-8 */
+    transform: scale(2.4);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 812px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 736px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 667px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 731px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 823px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 640px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 823px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 653px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 568px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 15px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 768px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 20px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (width: 1024px) {
+  .wirecableimage {
+    display: none;
+  }
+  .wirecableimage2 {
+    display: none;
+  }
+  .wirerecycling {
+    text-align: justify;
+    width: auto;
+    margin-right: 10%;
+    font-size: 25px;
+    border: 2px dotted #b87333;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .wirecabletypes2 {
+    display: none;
+  }
+  .wirecabletypesH2 {
+    font-size: 25px;
+    text-align: center;
+    margin-left: 0%;
+  }
+
+  .lineafterindustrialwires {
+    display: none;
+  }
+
+  .lineafterscrapwires {
+    display: none;
+  }
+
+  .wireworkflowdivimg {
+    display: none;
+  }
+  .wireworkflowdivimg2:hover {
+    -ms-transform: scale(1.8); /* IE 9 */
+    -webkit-transform: scale(1.8); /* Safari 3-8 */
+    transform: scale(1.8);
+    border: rgb(11, 78, 84) 2px solid;
+    transition: 1s;
+    border-radius: 5px;
+  }
+}

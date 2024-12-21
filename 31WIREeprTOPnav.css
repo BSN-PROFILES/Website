@@ -1,0 +1,168 @@
+.column {
+  float: left;
+  width: 10%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.cA {
+  border-right: 5px solid black;
+  height: 20px;
+  margin-left: 70px;
+  color: black;
+}
+
+.c1 {
+  border-right: 5px solid black;
+  height: 20px;
+  margin-left: 60px;
+  color: black;
+}
+
+.c2 {
+  border-right: 5px solid black;
+  height: 20px;
+  margin-left: 0px;
+  color: black;
+}
+
+.c3 {
+  border-right: 5px solid black;
+  height: 20px;
+  margin-left: 20px;
+  color: black;
+}
+
+.c4 {
+  margin-left: 40px;
+  color: black;
+}
+#row1 {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+  overflow: hidden;
+  z-index: 99;
+}
+
+#row1 a {
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#row1 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.c4 {
+  margin-left: 40px;
+  color: black;
+  height: 20px;
+  border-right: 5px solid black;
+}
+
+.c5 {
+  margin-left: 40px;
+  color: black;
+  height: 20px;
+  border-right: 5px solid black;
+}
+
+.c6 {
+  margin-left: 40px;
+  color: black;
+  height: 60px;
+  border-right: 5px solid black;
+}
+
+.c7 {
+  margin-left: 10px;
+  color: black;
+  height: 20px;
+  border-right: 5px solid black;
+}
+
+.c8 {
+  margin-left: 20px;
+  color: black;
+}
+
+.fa-whatsapp {
+  background: white;
+  float: right;
+  width: 10px;
+  height: 10px;
+  margin-top: -35px;
+  border-radius: 5px;
+  color: white;
+  font-size: 25px;
+}
+.cA {
+  border-right: 5px solid black;
+  height: 20px;
+  margin-left: 70px;
+  color: black;
+  font-size: 15px;
+}
+
+.c1 {
+  border-right: 5px solid black;
+  height: 20px;
+  margin-left: 60px;
+  font-size: 15px;
+  color: black;
+}
+
+.c2 {
+  border-right: 5px solid black;
+  height: 20px;
+  font-size: 15px;
+  margin-left: 0px;
+  color: black;
+}
+
+.c3 {
+  border-right: 5px solid black;
+  height: 20px;
+  font-size: 15px;
+  margin-left: 20px;
+  color: black;
+}
+
+.c4 {
+  margin-left: 40px;
+  font-size: 15px;
+  color: black;
+}
+.c5 {
+  font-size: 15px;
+  margin-right: 10px;
+}
+
+.c6 {
+  font-size: 15px;
+}
+
+.column .c7 {
+  width: 40%;
+}
+
+.column .c2 {
+  width: 60%;
+}
+.fa-whatsapp {
+  background: white;
+  float: right;
+  margin: -1270px;
+  width: 10px;
+  height: 10px;
+  margin-top: -38px;
+  color: white;
+  font-size: 25px;
+}

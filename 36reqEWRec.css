@@ -1,0 +1,38 @@
+.req {
+  width: 35%;
+  margin-left: 3%;
+}
+.reqimg {
+  width: 50%;
+  float: right;
+  margin-right: 5%;
+  margin-top: 1%;
+}
+.RequirementH2 {
+  font-size: 18px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+}
+.Benefits {
+  font-size: 18px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+}
+.Stepsh2 {
+  font-size: 18px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.compoH2 {
+  font-size: 18px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.meaningh2 {
+  font-size: 18px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+}
