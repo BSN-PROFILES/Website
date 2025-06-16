@@ -27,7 +27,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -265,7 +265,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -390,7 +390,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -515,7 +515,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -640,7 +640,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -765,7 +765,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -890,7 +890,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -1015,7 +1015,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -1140,7 +1140,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -1265,7 +1265,7 @@
     align-items: center;
     margin-right: 27%;
     margin-top: 3%;
-    display: block;
+    display: none;
     padding: 2px;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
@@ -1520,7 +1520,7 @@
     align-items: center;
     margin-right: 34%;
     margin-top: 3%;
-    display: block;
+    display: none;
     background-color: white;
     border: rgb(4,102,178) 3px solid;
     border-radius: 5px;
